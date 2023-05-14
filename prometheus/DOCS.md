@@ -7,6 +7,8 @@
 The installation of this add-on is pretty straightforward and not different in
 comparison to installing any other Home Assistant add-on.
 
+**Note**: The addon is currently in BETA and thus is only installable through the [BETA add-on store](https://github.com/hassio-addons/repository-beta)
+
 1. Search for the "Prometheus" add-on in the Supervisor add-on store.
 1. Install the "Prometheus" add-on.
 1. Start the "Prometheus" add-on.
